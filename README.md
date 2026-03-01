@@ -3,11 +3,9 @@
 ```sh
 - clone Projects Or Download Projects
 ```
-```sh
-Run Projects
-```
 # Run 
 ```sh
+- Run Projects
 - Example : filename.py
 ```
 
