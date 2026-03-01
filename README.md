@@ -8,6 +8,15 @@
 ```sh
 - ls
 - cd minecraftsonic
-- filename.py
-```
-Version 2.0
+```sh
+> python botnetsonic.py <server_ip> <port> <bots>
+> python exploit_pack.py -> chunk_ban.bin - chunk exploit
+
+book_ban.bin - book exploit
+
+sign_crash.bin - sign exploit
+
+inventory_crash.bin - inventory exploit
+
+log4j_payloads.txt - Log4j payloads -
+> python minecraftseverddos.py 000.000.0.000
