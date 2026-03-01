@@ -1,11 +1,13 @@
 
 # How to use - Step by Step
 ```sh
-- Install Projects
-- Open Project in Terminal
-- Run Projects 
+- clone Projects Or Download Projects
 ```
 ```sh
-Version 2.0
+Run Projects
+```
+# Run 
+```sh
+- Example : filename.py
 ```
 
