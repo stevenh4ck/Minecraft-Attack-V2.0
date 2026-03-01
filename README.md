@@ -10,7 +10,9 @@
 - cd minecraftsonic
 ```sh
 > python botnetsonic.py <server_ip> <port> <bots>
-> python exploit_pack.py -> chunk_ban.bin - chunk exploit
+> python exploit_pack.py ->
+        File Creat 
+chunk_ban.bin - chunk exploit
 
 book_ban.bin - book exploit
 
