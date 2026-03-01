@@ -1,8 +1,8 @@
 
 # How to use - Step by Step
 ```sh
-clone projects
-download projects
+- git clone https://github.com/stevenh4ck/Minecraft-Attack-V2.0.git
+- Download Projects File ZIP
 ```
 # Run 
 ```sh
