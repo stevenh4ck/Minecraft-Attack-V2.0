@@ -5,7 +5,7 @@
 ```
 # Run 
 ```sh
-- Run Projects
-- Example : filename.py
+Run Projects
+Example-filename.py
 ```
 
