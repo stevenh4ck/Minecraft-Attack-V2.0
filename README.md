@@ -1,12 +1,12 @@
 
 # How to use - Step by Step
 ```sh
-clone Projects Or Download Projects
+clone projects Or download projects
 ```
 # Run 
 ```sh
-Run Projects
-Example-filename.py
+- ls
+- cd minecraftsonic
+- filename.py
 ```
 Version 2.0
-
