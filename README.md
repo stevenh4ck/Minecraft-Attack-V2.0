@@ -1,7 +1,8 @@
 
 # How to use - Step by Step
 ```sh
-clone projects Or download projects
+clone projects
+download projects
 ```
 # Run 
 ```sh
