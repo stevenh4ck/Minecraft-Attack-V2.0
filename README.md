@@ -5,7 +5,7 @@
 - Download Projects File ZIP
 ```
 # Run 
-```sh
+```
 - ls
 - cd minecraftsonic
 ```sh
