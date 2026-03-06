@@ -5,10 +5,9 @@
 - Download Projects File ZIP
 ```
 # Run 
-```
 - ls
 - cd minecraftsonic
-```sh
+  
 > python botnetsonic.py <server_ip> <port> <bots>
 
 > python exploit_pack.py ->
